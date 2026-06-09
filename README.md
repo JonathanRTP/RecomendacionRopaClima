@@ -93,4 +93,4 @@ clima-outfit/
 
 ## 👤 Autor
 
-**Jonathan Restrepo** — [github.com/tu-usuario](https://github.com/JonathanRTP)
+**Jonathan Restrepo** — [github.com/JonathanRTP](https://github.com/JonathanRTP)
